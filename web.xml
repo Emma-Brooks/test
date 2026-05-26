@@ -1,0 +1,35 @@
+<%@ page contentType="application/vnd.ms-excel" %>
+
+<!-- <% response.setContentType("application/vnd.ms-excel"); %> -->
+
+
+<HTML>
+<body>
+
+<b>Example of contentType
+<br>
+You can set The contentType Using page directive
+<br>
+OR
+<br>
+
+You can set the contentType Using the object of response
+<br>
+</b>
+<table border="5">
+
+<tr>
+	<td>ABC</td>
+	<td>abc</td>
+</tr>
+
+<tr>
+	<td>XYZ</td>
+	<td>xyz</td>
+</tr>
+
+</table>
+
+
+</body>
+</html>
